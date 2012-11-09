@@ -7,6 +7,7 @@ public class Main {
 		int c = 3;
 		c = a + b;
 		System.out.println("Git is fun");
-		System.out.println("1 + 2 = " + c);				
+		System.out.println("1 + 2 = " + c);
+		System.out.println("Hello Van!");
 	}
 }
