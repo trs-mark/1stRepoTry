@@ -8,6 +8,6 @@ public class Main {
 		c = a + b;
 		System.out.println("Git is fun");
 		System.out.println("1 + 2 = " + c);
-		System.out.println("Hello Van!");
+		System.out.println("Hello Van! from master!");
 	}
 }
